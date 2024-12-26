@@ -1,0 +1,6 @@
+tqdm
+progressbar
+torch
+matplotlib
+IPython
+torchvision
