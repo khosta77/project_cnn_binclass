@@ -3,6 +3,7 @@
 
 #### data
 *.csv
+data/
 
 #### jupyter
 *.ipynb_checkpoints
